@@ -1,0 +1,13 @@
+{
+    "require": {
+        "monolog/monolog": "^1.25"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bariseser\\": "./",
+            "BookStore\\": "./",
+            "CarStore\\": "./",
+            "IceCream\\": "./"
+        }
+    }
+}
